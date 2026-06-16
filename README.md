@@ -65,12 +65,10 @@ Me especializo en la creación de aplicaciones modernas utilizando ⚛️ React,
 </div>
 
 <br>
-## GitHub Stats
+<div align='center'>
+<h2>GitHub Stats</h2>
+
 <p>
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=mapas48a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    />
 <img 
  height="180em" 
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapas48a&layout=compact&theme=tokyonight&hide_border=true" 
@@ -81,3 +79,4 @@ Me especializo en la creación de aplicaciones modernas utilizando ⚛️ React,
     src="https://github-readme-streak-stats.herokuapp.com?user=mapas48a&theme=tokyonight&hide_border=true" 
   />
 </p>
+</div>
